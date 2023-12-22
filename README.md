@@ -91,9 +91,7 @@ Profinder es una aplicación de citas que permite a los usuarios prestadores de 
 
   <!-- Maria José Olaechea -->
   <div style="flex: 25%; padding: 10px; text-align: center;">
-    <a href="https://www.linkedin.com/in/mjolaechea/" target="_blank">
-      
-    </a>
+    <a href="https://www.linkedin.com/in/mjolaechea/" target="_blank"></a>
     <p><strong>Maria José Olaechea</strong></p>
     <p>
       GitHub: <a href="https://github.com/OLAEMJO8" target="_blank">OLAEMJO8</a><br>
